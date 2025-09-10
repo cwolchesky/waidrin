@@ -1,0 +1,5 @@
+{
+  "name": "OpenRouter",
+  "main": "main.js",
+  "settings": { "apiKey": "<OPENROUTER API KEY>", "model": "<PREFERRED MODEL>" }
+}
